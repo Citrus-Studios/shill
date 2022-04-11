@@ -1,3 +1,21 @@
+/*!
+# Shill
+Shill is a tool for shilling easily
+
+# Example
+```rs
+struct Person {}
+struct Linux {}
+
+impl Shill<Linux> for Person {}
+
+let new_person = Person {};
+// Person loves Linux, you should use Linux, Linux is the best!
+new_person.shill();
+```
+*/
+
+
 #[test]
 fn test_shill_trait() {
     struct Test {}

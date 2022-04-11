@@ -1,7 +1,7 @@
 [package]
 name = "shill"
 description = "Shill is a tool for shilling easily"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license-file = "LICENSE"
 
