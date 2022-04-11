@@ -13,6 +13,8 @@ let new_person = Person {};
 // Person loves Linux, you should use Linux, Linux is the best!
 new_person.shill();
 ```
+
+(if you wish to actually use this for something please contact me on github)
 */
 
 
